@@ -801,7 +801,11 @@ left: 828px;
 }
 .footer-form{
   display: flex;
-  gap 24px$
+  gap 24px;
+}
+
+.label-footer{
+
 }
 
 .input-footer-text{
@@ -828,7 +832,7 @@ color: #ffffff;
 }
 
 .email-foot-input::placeholder{
-  color #ffffff;
+ color: #ffffff;
 }
 
 .input-footer-btn{
